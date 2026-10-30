@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "luma",
   "name": "Terrace Finance - Merchant API",
   "colors": {
     "primary": "#16A34A",
@@ -78,5 +78,9 @@
   },
   "markdown": {
     "schema": true
+  },
+  "appearance": {
+    "default": "light",
+    "strict": true
   }
 }
