@@ -74,7 +74,14 @@
     }
   },
   "api": {
-    "openapi": "https://tfc-qa-merchant-api.azurewebsites.net/swagger/merchant/swagger.json"
+    "openapi": "https://tfc-qa-merchant-api.azurewebsites.net/swagger/merchant/swagger.json",
+    "params": {
+      "expanded": "all"
+    },
+    "examples": {
+      "defaults": "all"
+    },
+    "url": "full"
   },
   "markdown": {
     "schema": true
